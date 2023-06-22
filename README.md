@@ -9,32 +9,14 @@
 
 </div>
 <div align="center">Hey there 👋
-This is Shreyans Joshi</br>
-I am a Cloud and Devops enthusiast from India.</br>
-I have obtained the <strong>Microsoft certified Azure Fundamentals</strong> and <strong>Amazon certified Cloud Practitioner badges.</strong></br>
-Currently, I am preparing for the AWS Solutions Architect exam.</br>
-I love to do content writing.</br> 
-In the year 2022, I was the Co-Lead of Google Developer Student Club at my College.</br>
+This is Riya Shah</br>
+I am a UI/UX enthusiast AND Graphics Designer from India.</br>
+Currently, I am redesigning the UI of websites for a startup company using Figma.</br>
+I am freelancing in social media management.</br> 
 I am familiar with the following technologies:
 
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" title="aws" width="40" height="40"/>&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.YKENnQoVLxdj5twTXB0hCQHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="azure" width="40" height="40" />&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.503qr0zfvKj8gpv30NLoiQAAAA?w=211&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="chef" width="40" height="40" />&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.I-wbb2aw9q-zzukchMvSVgAAAA?w=189&h=159&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="jenkins" width="40" height="40" />&nbsp;
-  <img src="https://th.bing.com/th/id/OIP.C8WVdizzhz9IXEUyic8iOQHaJ4?w=134&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" title="jenkins" width="40" height="40" />&nbsp;
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="figma" width="40" height="40"/>&nbsp;
+  <img src="https://vetores.org/wp-content/uploads/canva.png" title="canva" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" title="ai" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" title="jenkins" width="40" height="40" />&nbsp;
 </div>
-<!--
-**joshishreyans/joshishreyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
