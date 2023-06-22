@@ -12,7 +12,7 @@
 This is Riya Shah</br>
 I am a UI/UX enthusiast AND Graphics Designer from India.</br>
 Currently, I am redesigning the UI of websites for a startup company using Figma.</br>
-I am freelancing in social media management.</br> 
+I do freelancing in social media management.</br> 
 I am familiar with the following technologies:
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="figma" width="40" height="40"/>&nbsp;
