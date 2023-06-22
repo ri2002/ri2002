@@ -16,7 +16,7 @@ I am freelancing in social media management.</br>
 I am familiar with the following technologies:
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="figma" width="40" height="40"/>&nbsp;
-  <img src="https://vetores.org/wp-content/uploads/canva.png" title="canva" width="40" height="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" title="canva" width="40" height="40" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" title="ai" width="40" height="40" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" title="jenkins" width="40" height="40" />&nbsp;
 </div>
