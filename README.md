@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/riya-shah-939783219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<br>
+<br><br>
 </div>
 <div align="center">Hey there 👋
-This is Riya Shah</br>
+This is Riya Shah.</br>
 I am a UI/UX enthusiast AND Graphics Designer from India.</br>
 Currently, I am redesigning the UI of websites for a startup company using Figma.</br>
 I do freelancing in social media management.</br> 
