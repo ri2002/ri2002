@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/riya-shah-939783219/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+<br>
 </div>
 <div align="center">Hey there 👋
 This is Riya Shah</br>
